@@ -171,6 +171,10 @@ p {
   border-top: 1px solid var(--border);
 }
 
+.home-page .content-section + .content-section {
+  border-top: 0;
+}
+
 .two-column,
 .feature-grid,
 .essay-list,
